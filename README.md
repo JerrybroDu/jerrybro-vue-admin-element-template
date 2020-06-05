@@ -24,4 +24,6 @@ npm run dev
 # 打包
 npm run build:prod
 ```
+## 效果图
+![控制台效果图](https://img-blog.csdnimg.cn/20200605145814582.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTkwMDk4,size_16,color_FFFFFF,t_70#pic_center)
 
