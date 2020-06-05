@@ -24,11 +24,8 @@
           <a target="_blank" href="https://github.com/JerrybroDu?tab=repositories">
             <el-dropdown-item>Github</el-dropdown-item>
           </a>
-          <a target="_blank" href="https://github.com/PanJiaChen/vue-admin-template/">
+          <a target="_blank" href="https://github.com/JerrybroDu/jerrybro-vue-admin-element-template">
             <el-dropdown-item>模板地址</el-dropdown-item>
-          </a>
-          <a target="_blank" href="https://panjiachen.github.io/vue-element-admin-site/#/">
-            <el-dropdown-item>模板文档</el-dropdown-item>
           </a>
           <el-dropdown-item divided @click.native="logout">
             <span style="display:block;">退出</span>
