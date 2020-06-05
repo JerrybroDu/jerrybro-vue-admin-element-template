@@ -45,7 +45,14 @@
 
       <div class="tips">
         <span style="margin-right:20px;">账号: jerrybro</span>
-        <span> 密码: jerrybro</span>
+        <span style="margin-right:20px;">密码: jerrybro</span>
+        <span>(超级管理员)</span><br>
+        <span style="margin-right:22px;">账号: admin1</span>
+        <span style="margin-right:21px;">密码: admin1</span>
+        <span>(普通编辑者) </span>
+        <div style="margin-top:5px; color: #84F852">
+          说明：账号拥有不同的权限，所能看到的页面会不同。
+        </div>
       </div>
 
     </el-form>
